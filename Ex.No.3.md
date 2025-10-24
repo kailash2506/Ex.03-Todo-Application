@@ -324,8 +324,7 @@ function renderTodos() {
 ```
 
 ## OUTPUT
-
-![alt text](image.png)
+![alt text](<Screenshot 2025-10-24 154301.png>)
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
